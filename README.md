@@ -5,3 +5,4 @@ Data Sets of year 2018, 2019. The objective in this deep learning project was to
 modalities using a convolutional neural network. 
 If you wish to acquire these data sets you will need to read the instructions in the Capstone 2 pdfs
 or simply search for UPenn BraTS website. Also, you may find the author's github just as insightful. https://github.com/sacmehta/3D-ESPNet
+The implementation of a Unet using the fastai library and Random Forest can be found here as well. The author of the RF, which generates haralick feautures and binary patterns, can be found here: https://github.com/dgriffiths3/ml_segmentation/blob/master/train.py
